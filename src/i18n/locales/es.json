@@ -1,0 +1,25 @@
+{
+  "site": {
+    "name": "ENGLISHCONNECT",
+    "title": "Aprende inglés en línea"
+  },
+  "nav": {
+    "about": "Acerca de",
+    "levels": "Niveles",
+    "contact": "Contacto",
+    "proSpace": "Espacio Estudiante",
+    "logout": "Cerrar sesión",
+    "admin": "Administrador"
+  },
+  "hero": {
+    "title": "Domina el inglés",
+    "description": "Únete a nuestros cursos dirigidos por expertos y libera tu potencial con rutas de aprendizaje personalizadas",
+    "startButton": "Empieza a aprender",
+    "imageAlt": "Domina el inglés"
+  },
+  "access": {
+    "membersOnly": "Solo para miembros",
+    "enterCode": "Ingrese el código de acceso",
+    "invalidCode": "Código inválido"
+  }
+}

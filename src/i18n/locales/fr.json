@@ -1,0 +1,39 @@
+{
+  "site": {
+    "name": "KALAMA ENGLISH",
+    "title": "Apprenez l'anglais en ligne",
+    "slogan": "APPRENDRE • PROGRESSER • RÉUSSIR"
+  },
+  "nav": {
+    "about": "À propos",
+    "levels": "Niveaux",
+    "contact": "Contact",
+    "proSpace": "Student Safe Space",
+    "logout": "Déconnexion",
+    "admin": "Administration"
+  },
+  "hero": {
+    "title": "Maîtrisez l'anglais",
+    "description": "Rejoignez nos cours dirigés par des experts et libérez votre potentiel avec des parcours d'apprentissage personnalisés",
+    "startButton": "Commencez à apprendre",
+    "imageAlt": "Maîtrisez votre anglais",
+    "quote": "La langue est la carte routière d'une culture. Elle vous dit d'où viennent ses habitants et où ils vont.",
+    "quoteAuthor": "‒ Rita Mae Brown",
+    "stats": {
+      "success": "Taux de réussite",
+      "content": "Heures de contenu",
+      "access": "Accès à l'apprentissage"
+    }
+  },
+  "about": {
+    "title": "À propos de KALAMA ENGLISH",
+    "description": "",
+    "quote": "Avoir une autre langue, c'est posséder une deuxième âme.",
+    "quoteAuthor": "‒ Charlemagne",
+    "stats": {
+      "courses": "Cours",
+      "students": "Étudiants",
+      "levels": "Niveaux"
+    }
+  }
+}

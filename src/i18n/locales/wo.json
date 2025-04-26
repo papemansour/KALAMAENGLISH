@@ -1,0 +1,25 @@
+{
+  "site": {
+    "name": "ENGLISHCONNECT",
+    "title": "Jàng Anglais ci Internet"
+  },
+  "nav": {
+    "about": "Ci mbiru",
+    "levels": "Tolluwaayi",
+    "contact": "Jokkoo",
+    "proSpace": "Barab Jàngkat yi",
+    "logout": "Génn",
+    "admin": "Saytu"
+  },
+  "hero": {
+    "title": "Mën Anglais",
+    "description": "Bokk ci sunu cours yi ñu xam-xam yi jiite, te am yoon bu la mën",
+    "startButton": "Tambali jàng",
+    "imageAlt": "Mën Anglais"
+  },
+  "access": {
+    "membersOnly": "Bokk yi rekk",
+    "enterCode": "Dugal sa kode",
+    "invalidCode": "Kode bu baaxul"
+  }
+}

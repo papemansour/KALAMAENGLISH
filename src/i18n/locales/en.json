@@ -1,0 +1,39 @@
+{
+  "site": {
+    "name": "KALAMA ENGLISH",
+    "title": "Learn English Online",
+    "slogan": "LEARN • GROW • SUCCEED"
+  },
+  "nav": {
+    "about": "About",
+    "levels": "Levels",
+    "contact": "Contact",
+    "proSpace": "Student Safe Space",
+    "logout": "Logout",
+    "admin": "Admin"
+  },
+  "hero": {
+    "title": "Master Your English",
+    "description": "Join our expert-led courses and unlock your potential with personalized learning paths",
+    "startButton": "Start Learning Now",
+    "imageAlt": "Master your English",
+    "quote": "Language is the road map of a culture. It tells you where its people come from and where they are going.",
+    "quoteAuthor": "‒ Rita Mae Brown",
+    "stats": {
+      "success": "Success Rate",
+      "content": "Hours of Content",
+      "access": "Learning Access"
+    }
+  },
+  "about": {
+    "title": "About KALAMA ENGLISH",
+    "description": "",
+    "quote": "To have another language is to possess a second soul.",
+    "quoteAuthor": "‒ Charlemagne",
+    "stats": {
+      "courses": "Courses",
+      "students": "Students",
+      "levels": "Levels"
+    }
+  }
+}
